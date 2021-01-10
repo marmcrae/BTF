@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BluetoothFinder</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Help</string>
+    <string name="title_notifications">About Us</string>
+    <string name="register_device_button">REGISTER NEW DEVICE</string>
+    <string name="manage_devices_button">MANAGE DEVICES</string>
+    <string name="find_my_device_button">FIND MY DEVICE</string>
+
+
+    <string name="filler_text">
+       \nHow to get started.
+        \n
+       \nDevice is not showing up on bluetooth scanner when trying to register.
+        \n
+        \nAlarm does not go off when it is supposed to.
+        \n
+        \nMy device is registered but did not show up when I tried to find it.
+    </string>
+    <string name="contact_us_text">Still need help? Click here to contact us!</string>
+    <string name="paired_device_button">SHOW PAIRED DEVICES</string>
+</resources>
